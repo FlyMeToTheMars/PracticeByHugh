@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aad041c7-5a5a-41f8-853a-55e20db9da7b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Scala Object" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:/Env/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="C:\Env\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ZLdDp3qFkenpEXZc3MJGyNNisW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Apache Shiro/shiro-example-master" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Hugh's Onenote\OneDrive\Project\FlinkJavaTest\src\main\resources" />
+      <recent name="F:\Hugh's Onenote\OneDrive\Project\FlinkJavaTest\src\main\scala" />
+      <recent name="C:\Users\flyho\OneDrive\Project\PracticeByHugh\MyCode\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.scala.hugh.demos" />
+      <recent name="redis" />
+      <recent name="com.scala.hugh.kafka2hbase" />
+      <recent name="com.java.hugh.kafka" />
+      <recent name="com.java.hugh.source" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Hugh's Onenote\OneDrive\Project\FlinkJavaTest\src\main\scala\com\scala\hugh\demos" />
+      <recent name="F:\Hugh's Onenote\OneDrive\Project\FlinkJavaTest\src\main\scala\com\scala\hugh\PhoenixDemo" />
+      <recent name="F:\Hugh's Onenote\OneDrive\Project\FlinkJavaTest\src\main\scala\com\scala\hugh\watermark" />
+      <recent name="F:\Hugh's Onenote\OneDrive\Project\FlinkJavaTest\src\main\scala\com\scala\hugh\MySQLAysncIO" />
+      <recent name="F:\Hugh's Onenote\OneDrive\Project\FlinkJavaTest\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.user">
+    <configuration name="BroadWithSyn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.hugh.broadStream.BroadWithSyn" />
+      <module name="FlinkJavaTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java.hugh.broadStream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Network" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.scala.hugh.topnInStream.Network" />
+      <module name="FlinkJavaTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.scala.hugh.topnInStream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PathUtil" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.scala.hugh.utils.PathUtil" />
+      <module name="FlinkJavaTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.scala.hugh.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="user" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.scala.hugh.demos.user" />
+      <module name="FlinkJavaTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.scala.hugh.demos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PathUtil$" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FlinkJavaTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.scala.hugh.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.scala.hugh.utils" />
+      <option name="MAIN_CLASS_NAME" value="com.scala.hugh.utils.PathUtil$" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.user" />
+        <item itemvalue="Application.BroadWithSyn" />
+        <item itemvalue="JUnit.PathUtil$" />
+        <item itemvalue="Application.Network" />
+        <item itemvalue="Application.PathUtil" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aad041c7-5a5a-41f8-853a-55e20db9da7b" name="Default Changelist" comment="" />
+      <created>1584622190382</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584622190382</updated>
+      <workItem from="1584622191589" duration="1140000" />
+      <workItem from="1584623339749" duration="867000" />
+      <workItem from="1584625991139" duration="186000" />
+      <workItem from="1584626783295" duration="1509000" />
+      <workItem from="1584628946143" duration="238000" />
+      <workItem from="1584629195198" duration="509000" />
+      <workItem from="1584629822483" duration="245000" />
+      <workItem from="1584630078053" duration="237000" />
+      <workItem from="1584630325568" duration="960000" />
+      <workItem from="1584631573873" duration="114000" />
+      <workItem from="1584631694513" duration="21000" />
+      <workItem from="1584631734879" duration="5727000" />
+      <workItem from="1584638747326" duration="2343000" />
+      <workItem from="1584641103648" duration="2619000" />
+      <workItem from="1584765004346" duration="16446000" />
+      <workItem from="1584806883412" duration="27000" />
+      <workItem from="1584808437244" duration="6000" />
+      <workItem from="1584866997066" duration="10226000" />
+      <workItem from="1584946789738" duration="243000" />
+      <workItem from="1584947606095" duration="69000" />
+      <workItem from="1584947701755" duration="121000" />
+      <workItem from="1584950291140" duration="129000" />
+      <workItem from="1584950435806" duration="959000" />
+      <workItem from="1584951557279" duration="10554000" />
+      <workItem from="1584971272603" duration="164000" />
+      <workItem from="1584971449848" duration="56000" />
+      <workItem from="1584971516531" duration="60000" />
+      <workItem from="1584971632106" duration="5231000" />
+      <workItem from="1585012622486" duration="20265000" />
+      <workItem from="1585043072766" duration="4888000" />
+      <workItem from="1585103473471" duration="16187000" />
+      <workItem from="1585213231458" duration="1037000" />
+      <workItem from="1585214330403" duration="5013000" />
+      <workItem from="1585273648202" duration="2302000" />
+      <workItem from="1585275980100" duration="12000" />
+      <workItem from="1585276909333" duration="735000" />
+      <workItem from="1585281947303" duration="598000" />
+      <workItem from="1585282800242" duration="21018000" />
+      <workItem from="1586230710790" duration="86000" />
+      <workItem from="1586230818899" duration="27000" />
+      <workItem from="1586230864478" duration="142000" />
+      <workItem from="1586231108514" duration="3000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1330" y="461" key="#Project_Structure" timestamp="1584979775571">
+      <screen x="0" y="40" width="2560" height="1400" />
+    </state>
+    <state x="1330" y="461" key="#Project_Structure/0.40.2560.1400@0.40.2560.1400" timestamp="1584979775571" />
+    <state x="591" y="525" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1585218440030">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state x="591" y="525" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1920.1036@0.0.1920.1036" timestamp="1585218440030" />
+    <state x="788" y="750" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.40.2560.1400@0.40.2560.1400" timestamp="1584789789092" />
+    <state x="591" y="317" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585046243446">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state x="591" y="317" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1036@0.0.1920.1036" timestamp="1585046243446" />
+    <state x="753" y="392" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1585012628803">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state x="753" y="392" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.0.1920.1036@0.0.1920.1036" timestamp="1585012628803" />
+    <state x="363" y="462" key="#com.intellij.ide.util.MemberChooser" timestamp="1585218703147">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state x="363" y="462" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1036@0.0.1920.1036" timestamp="1585218703147" />
+    <state x="931" y="626" key="#com.intellij.ide.util.MemberChooser/0.40.2560.1400@0.40.2560.1400" timestamp="1584788834653" />
+    <state x="605" y="425" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1585042803195">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state x="605" y="425" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1036@0.0.1920.1036" timestamp="1585042803195" />
+    <state x="806" y="617" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.40.2560.1400@0.40.2560.1400" timestamp="1584980370592" />
+    <state x="722" y="554" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1584957218663">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state x="722" y="554" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1036@0.0.1920.1036" timestamp="1584957218663" />
+    <state x="724" y="115" key="FileChooserDialogImpl" timestamp="1585294346762">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state x="724" y="115" key="FileChooserDialogImpl/0.0.1920.1036@0.0.1920.1036" timestamp="1585294346762" />
+    <state x="438" y="659" key="FileChooserDialogImpl/0.40.2560.1400@0.40.2560.1400" timestamp="1584978125312" />
+    <state width="841" height="93" key="GridCell.Tab.0.bottom" timestamp="1585219850371">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state width="841" height="93" key="GridCell.Tab.0.bottom/0.0.1920.1036@0.0.1920.1036" timestamp="1585219850371" />
+    <state width="1995" height="435" key="GridCell.Tab.0.bottom/0.40.2560.1400@0.40.2560.1400" timestamp="1584984565002" />
+    <state width="841" height="93" key="GridCell.Tab.0.center" timestamp="1585219850370">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state width="841" height="93" key="GridCell.Tab.0.center/0.0.1920.1036@0.0.1920.1036" timestamp="1585219850370" />
+    <state width="1995" height="435" key="GridCell.Tab.0.center/0.40.2560.1400@0.40.2560.1400" timestamp="1584984565002" />
+    <state width="841" height="93" key="GridCell.Tab.0.left" timestamp="1585219850369">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state width="841" height="93" key="GridCell.Tab.0.left/0.0.1920.1036@0.0.1920.1036" timestamp="1585219850369" />
+    <state width="1995" height="435" key="GridCell.Tab.0.left/0.40.2560.1400@0.40.2560.1400" timestamp="1584984565002" />
+    <state width="841" height="93" key="GridCell.Tab.0.right" timestamp="1585219850371">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state width="841" height="93" key="GridCell.Tab.0.right/0.0.1920.1036@0.0.1920.1036" timestamp="1585219850371" />
+    <state width="1995" height="435" key="GridCell.Tab.0.right/0.40.2560.1400@0.40.2560.1400" timestamp="1584984565002" />
+    <state x="1060" y="510" key="NewModule_or_Project.wizard" timestamp="1584978022462">
+      <screen x="0" y="40" width="2560" height="1400" />
+    </state>
+    <state x="1060" y="510" key="NewModule_or_Project.wizard/0.40.2560.1400@0.40.2560.1400" timestamp="1584978022462" />
+    <state x="260" y="185" key="SettingsEditor" timestamp="1586230844565">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state x="260" y="185" key="SettingsEditor/0.0.1920.1036@0.0.1920.1036" timestamp="1586230844565" />
+    <state x="442" y="516" key="SettingsEditor/0.40.2560.1400@0.40.2560.1400" timestamp="1584980481701" />
+    <state x="688" y="531" key="com.intellij.ide.util.TipDialog" timestamp="1586231164271">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state x="688" y="531" key="com.intellij.ide.util.TipDialog/0.0.1920.1036@0.0.1920.1036" timestamp="1586231164271" />
+    <state x="917" y="757" key="com.intellij.ide.util.TipDialog/0.40.2560.1400@0.40.2560.1400" timestamp="1584971632389" />
+    <state x="25" y="156" width="1368" height="1197" key="dock-window-1" timestamp="1584641819816">
+      <screen x="0" y="40" width="2560" height="1400" />
+    </state>
+    <state x="25" y="156" width="1368" height="1197" key="dock-window-1/0.40.2560.1400@0.40.2560.1400" timestamp="1584641819816" />
+    <state x="350" y="264" key="new project wizard" timestamp="1585032660024">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state x="350" y="264" key="new project wizard/0.0.1920.1036@0.0.1920.1036" timestamp="1585032660024" />
+    <state x="552" y="767" key="new project wizard/0.40.2560.1400@0.40.2560.1400" timestamp="1584980149642" />
+    <state x="676" y="247" width="672" height="678" key="search.everywhere.popup" timestamp="1585274808616">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state x="676" y="247" width="672" height="678" key="search.everywhere.popup/0.0.1920.1036@0.0.1920.1036" timestamp="1585274808616" />
+  </component>
+</project>

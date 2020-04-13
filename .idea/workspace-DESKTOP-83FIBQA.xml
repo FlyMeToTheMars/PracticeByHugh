@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aad041c7-5a5a-41f8-853a-55e20db9da7b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Users\flyho\.m2\repository" />
+        <option name="mavenHome" value="C:/Env/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="C:\Env\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ZLdDp3qFkenpEXZc3MJGyNNisW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.hugh.java.rocket.example" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\flyho\IdeaProjects\FlinkPractice\src\main\scala\com\hugh\kafkaFlink2mq" />
+      <recent name="C:\Users\flyho\IdeaProjects\FlinkPractice\src\main\java\com\hugh\java\rocket" />
+      <recent name="C:\Users\flyho\IdeaProjects\FlinkPractice\src\main\java\com\hugh\java\rocket\example" />
+      <recent name="C:\Users\flyho\IdeaProjects\FlinkPractice\src\main\java\com\hugh\java\rocket\common\serialization" />
+      <recent name="C:\Users\flyho\IdeaProjects\FlinkPractice\src\main\java\com\hugh\java\rocket\common\selector" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.kafka2mq">
+    <configuration name="RocketMQFlinkExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hugh.java.rocket.example.RocketMQFlinkExample" />
+      <module name="FlinkPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hugh.java.rocket.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleConsumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hugh.java.rocket.example.SimpleConsumer" />
+      <module name="FlinkPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hugh.java.rocket.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleProducer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hugh.java.rocket.example.SimpleProducer" />
+      <module name="FlinkPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hugh.java.rocket.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpeedCEP" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.hugh.rocketmq.SpeedCEP" />
+      <module name="FlinkPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hugh.rocketmq.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="kafka2mq" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.hugh.kafkaFlink2mq.kafka2mq" />
+      <module name="FlinkPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hugh.kafkaFlink2mq.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.kafka2mq" />
+        <item itemvalue="Application.SimpleConsumer" />
+        <item itemvalue="Application.SpeedCEP" />
+        <item itemvalue="Application.RocketMQFlinkExample" />
+        <item itemvalue="Application.SimpleProducer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aad041c7-5a5a-41f8-853a-55e20db9da7b" name="Default Changelist" comment="" />
+      <created>1584622190382</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584622190382</updated>
+      <workItem from="1584622191589" duration="1140000" />
+      <workItem from="1584623339749" duration="867000" />
+      <workItem from="1584625991139" duration="186000" />
+      <workItem from="1584626783295" duration="1509000" />
+      <workItem from="1584628946143" duration="238000" />
+      <workItem from="1584629195198" duration="509000" />
+      <workItem from="1584629822483" duration="245000" />
+      <workItem from="1584630078053" duration="237000" />
+      <workItem from="1584630325568" duration="960000" />
+      <workItem from="1584631573873" duration="114000" />
+      <workItem from="1584631694513" duration="21000" />
+      <workItem from="1584631734879" duration="5727000" />
+      <workItem from="1584638747326" duration="2343000" />
+      <workItem from="1584641103648" duration="2619000" />
+      <workItem from="1584765004346" duration="16446000" />
+      <workItem from="1584806883412" duration="27000" />
+      <workItem from="1584808437244" duration="6000" />
+      <workItem from="1584866997066" duration="10226000" />
+      <workItem from="1584946789738" duration="243000" />
+      <workItem from="1584947606095" duration="69000" />
+      <workItem from="1584947701755" duration="121000" />
+      <workItem from="1584948313502" duration="620000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="788" y="750" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1584789789092">
+      <screen x="0" y="40" width="2560" height="1400" />
+    </state>
+    <state x="788" y="750" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.40.2560.1400@0.40.2560.1400" timestamp="1584789789092" />
+    <state x="931" y="626" key="#com.intellij.ide.util.MemberChooser" timestamp="1584788834653">
+      <screen x="0" y="40" width="2560" height="1400" />
+    </state>
+    <state x="931" y="626" key="#com.intellij.ide.util.MemberChooser/0.40.2560.1400@0.40.2560.1400" timestamp="1584788834653" />
+    <state x="806" y="617" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1584623112846">
+      <screen x="0" y="40" width="2560" height="1400" />
+    </state>
+    <state x="806" y="617" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.40.2560.1400@0.40.2560.1400" timestamp="1584623112846" />
+    <state x="1231" y="617" key="FileChooserDialogImpl" timestamp="1584774298427">
+      <screen x="0" y="40" width="2560" height="1400" />
+    </state>
+    <state x="1231" y="617" key="FileChooserDialogImpl/0.40.2560.1400@0.40.2560.1400" timestamp="1584774298427" />
+    <state width="1995" height="391" key="GridCell.Tab.0.bottom" timestamp="1584797572965">
+      <screen x="0" y="40" width="2560" height="1400" />
+    </state>
+    <state width="1995" height="391" key="GridCell.Tab.0.bottom/0.40.2560.1400@0.40.2560.1400" timestamp="1584797572965" />
+    <state width="1995" height="391" key="GridCell.Tab.0.center" timestamp="1584797572965">
+      <screen x="0" y="40" width="2560" height="1400" />
+    </state>
+    <state width="1995" height="391" key="GridCell.Tab.0.center/0.40.2560.1400@0.40.2560.1400" timestamp="1584797572965" />
+    <state width="1995" height="391" key="GridCell.Tab.0.left" timestamp="1584797572965">
+      <screen x="0" y="40" width="2560" height="1400" />
+    </state>
+    <state width="1995" height="391" key="GridCell.Tab.0.left/0.40.2560.1400@0.40.2560.1400" timestamp="1584797572965" />
+    <state width="1995" height="391" key="GridCell.Tab.0.right" timestamp="1584797572965">
+      <screen x="0" y="40" width="2560" height="1400" />
+    </state>
+    <state width="1995" height="391" key="GridCell.Tab.0.right/0.40.2560.1400@0.40.2560.1400" timestamp="1584797572965" />
+    <state x="1060" y="510" key="NewModule_or_Project.wizard" timestamp="1584774305468">
+      <screen x="0" y="40" width="2560" height="1400" />
+    </state>
+    <state x="1060" y="510" key="NewModule_or_Project.wizard/0.40.2560.1400@0.40.2560.1400" timestamp="1584774305468" />
+    <state x="612" y="535" key="SettingsEditor" timestamp="1584785621182">
+      <screen x="0" y="40" width="2560" height="1400" />
+    </state>
+    <state x="612" y="535" key="SettingsEditor/0.40.2560.1400@0.40.2560.1400" timestamp="1584785621182" />
+    <state x="917" y="757" key="com.intellij.ide.util.TipDialog" timestamp="1584948317073">
+      <screen x="0" y="40" width="2560" height="1400" />
+    </state>
+    <state x="917" y="757" key="com.intellij.ide.util.TipDialog/0.40.2560.1400@0.40.2560.1400" timestamp="1584948317073" />
+    <state x="25" y="156" width="1368" height="1197" key="dock-window-1" timestamp="1584641819816">
+      <screen x="0" y="40" width="2560" height="1400" />
+    </state>
+    <state x="25" y="156" width="1368" height="1197" key="dock-window-1/0.40.2560.1400@0.40.2560.1400" timestamp="1584641819816" />
+    <state x="778" y="495" key="new project wizard" timestamp="1584773162159">
+      <screen x="0" y="40" width="2560" height="1400" />
+    </state>
+    <state x="778" y="495" key="new project wizard/0.40.2560.1400@0.40.2560.1400" timestamp="1584773162159" />
+  </component>
+</project>
