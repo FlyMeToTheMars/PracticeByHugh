@@ -6,20 +6,15 @@ import scala.util.parsing.json.{JSONArray, JSONObject}
  * @Date 2020/3/23 17:24
  * @Version 1.0
  **/
+
+case class beauty(naizi:String,pigu:String)
 object test {
   def main(args: Array[String]): Unit = {
 
-    val strings = List("001", "002", "003")
+    beauty("贫乳","带屁股")
+    println()
 
-/*      val a: Double = Math.random() * 3 + 1
-      println(Math.floor(a).toInt)*/
-
-    while(true) {
-
-      println(com.hugh.utils.randomUtils.rangeRandomInt(1,3))
-      Thread.sleep(500)
-
-    }
+    
   }
 
 }

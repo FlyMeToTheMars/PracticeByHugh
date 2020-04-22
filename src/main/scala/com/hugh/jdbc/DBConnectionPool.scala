@@ -11,7 +11,8 @@ import java.sql.{Connection, DriverManager}
  **/
 object DBConnectionPool {
   //直接读取Resource中的文件 如果是.properties结尾 可以直接省略尾缀
-  private val reader = ResourceBundle.getBundle("")
+  private val reader: ResourceBundle = ResourceBundle.getBundle("mysql5")
+  println(reader)
   //连接池总数
   private val max_connection = reader.getString("max_connection")
   //产生连接数

@@ -7,6 +7,6 @@ package com.hugh.jdbc
  **/
 object test {
   def main(args: Array[String]): Unit = {
-    println(JdbcHelper.query("select * from event_mapping;"))
+    println(JdbcHelper.query("show databases;"))
   }
 }
